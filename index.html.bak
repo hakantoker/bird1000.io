@@ -232,7 +232,7 @@ body,html{
       window.importedGameData = {
         guiEnabled: true,
         soundEnabled: true,
-        gotoMarketClickCount: 10,
+        gotoMarketClickCount: 0,
 
         groundVisible: true,
 
